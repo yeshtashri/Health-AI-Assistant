@@ -8,7 +8,7 @@ Health-AI-Assistant represents a sophisticated healthcare analytics platform tha
 
 **Primary Developers:**
 - Shavit - Lead Developer
-- Yeshta - Co-Developer
+- Yeshta Shri - Co-Developer
 
 ## System Architecture
 
