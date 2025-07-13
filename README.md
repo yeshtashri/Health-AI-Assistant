@@ -4,6 +4,9 @@
 
 Health-AI-Assistant represents a sophisticated healthcare analytics platform that leverages cutting-edge artificial intelligence and machine learning technologies to facilitate clinical decision support. The system integrates diabetes risk assessment, diabetic retinopathy detection, and intelligent clinical consultation capabilities within a unified, web-based interface.
 
+## Demo video
+https://youtu.be/ncV85Jpn22s
+
 ## Development Team
 
 **Primary Developers:**
